@@ -10,7 +10,7 @@
 
 ## 支持的工具
 
-在国内环境直接跑通这些 AI 编程工具，无需额外配置：
+配置一次，这些工具都接到同一个网关：
 
 | 工具 | 配置教程 |
 | --- | --- |
@@ -45,4 +45,4 @@ Windows 用户用 [install.bat](https://visioncoder.cn/install.bat)。装完到 
 
 ---
 
-<sub>关键词：Claude Code 国内配置 · Codex CLI 接入 · Gemini CLI 教程 · 多模型 API 网关 · AI 编程工具</sub>
+<sub>Keywords: Claude Code · Codex CLI · Gemini CLI · LLM API gateway · AI coding tools · 多模型 API 网关 · AI 编程工具</sub>
