@@ -1,6 +1,6 @@
 # VisionCoder
 
-**One API key for every frontier model.** OpenAI, Anthropic, and Gemini compatible — keep your SDKs and tools, just change the Base URL.
+**One API key for OpenAI, Anthropic, and Gemini protocols. An LLM gateway for developers — one balance for every model, just change the Base URL.**
 
 [Website](https://visioncoder.ai) · [Docs](https://docs.visioncoder.ai) · [Models](https://visioncoder.ai/models) · [Pricing](https://visioncoder.ai/pricing)
 
